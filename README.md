@@ -1029,7 +1029,7 @@ Returns a write stream object which is attached to the remote file specified in 
 Perfrom a remote file copy. The file identified by the `srcPath` argument will be copied to the file specified as the `dstPath` argument. The directory where `dstPath` will be placed must exist, but the actual file must not i.e. no overwrites allowed.
 
 -   **srcPath:** Path to remote file to be copied specified as a string
--   **dstPath:** Path to where the copy will be creaeted specified as a string
+-   **dstPath:** Path to where the copy will be created specified as a string
 
 
 <a id="orgcb8b861"></a>
